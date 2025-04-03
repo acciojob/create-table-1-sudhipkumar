@@ -13,4 +13,6 @@ function insert_Row() {
 	// Assign values to the cells
     cell1.innerHTML = "New Cell1";
     cell2.innerHTML = "New Cell2";
+
+	//Done
 }
