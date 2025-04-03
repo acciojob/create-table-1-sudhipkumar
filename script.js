@@ -9,4 +9,6 @@ function insert_Row() {
 	 // Insert two cells in the new row
     let cell1 = newRow.insertCell(0);
     let cell2 = newRow.insertCell(1);
+
+	
 }
